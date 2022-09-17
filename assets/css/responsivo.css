@@ -76,7 +76,7 @@
 
 @media screen and (min-width: 1200px) {
     .cabecalho {
-        background: red;
+        background: white;
     }
     .populares__card {
         margin-bottom: 0; 
